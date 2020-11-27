@@ -3,3 +3,6 @@ Repository for
 my own training and practice
 
 Repository créé pour tester les différentes commandes GitHub Desktop et m'entrainer .
+Liste des fichiers:
+Confiture légère
+fip
